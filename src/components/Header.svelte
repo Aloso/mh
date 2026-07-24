@@ -90,7 +90,6 @@
 		@media (max-width: 870px) {
 			justify-content: space-between;
 			align-items: start;
-			margin-bottom: 1.5rem;
 
 			#expand {
 				display: block;
