@@ -24,7 +24,7 @@
 	<p class="img-description">Gertrud und Diethart Stecher, Musikpädagogen</p>
 
 	<p>
-		Seit mehr als zwei Jahrzehnten leben und arbeiten wir gemeinsam in Holzkirchen. Musik ist sowohl
+		Seit mehr als drei Jahrzehnten leben und arbeiten wir gemeinsam in Holzkirchen. Musik ist sowohl
 		im Unterrichtsraum, als auch auf der Bühne ein bedeutender Teil unseres Lebens.
 	</p>
 	<p>

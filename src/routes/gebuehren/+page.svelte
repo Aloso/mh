@@ -143,6 +143,14 @@
 		<p>Skonto bei Barzahlung möglich (bitte erfragen).</p>
 		<Terms />
 
+		<h2>Schuljahr</h2>
+		<p>
+			Der Musikunterricht (Schuljahr 2026/27) beginnt am <b>Montag, den 21. September 2026</b> und
+			endet am <b>Freitag, den 23. Juli 2027</b>. Zusätzlich ist vom
+			<b>21. bis 23. Dezemberr 2026</b> KEIN Unterricht. Ansonsten gelten die Ferienbestimmungen für die
+			allgemeinen und weiterführenden Schulen in Bayern.
+		</p>
+
 		<h3>Möchten Sie eine Schnupperstunde vereinbaren?</h3>
 		<p>Dann rufen Sie uns an oder schreiben eine E-Mail:</p>
 		<ContactWidget />

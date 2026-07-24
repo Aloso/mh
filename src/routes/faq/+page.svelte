@@ -20,9 +20,8 @@
 	<details>
 		<summary>Wo findet der Unterricht statt?</summary>
 		<p>
-			Gertrud Stecher unterrichtet am Spatzenweg 1. Diethart Stecher unterrichtet Montags und
-			Dienstags in der Mittelschule Holzkirchen, ansonsten ebenfalls im Spatzenweg. Details zur
-			Anfahrt finden Sie unter <a href={resolve('/kontakt')}>Kontakt</a>.
+			Am Spatzenweg 1. Details zur Anfahrt finden Sie unter <a href={resolve('/kontakt')}>Kontakt</a
+			>.
 		</p>
 	</details>
 
@@ -39,7 +38,7 @@
 	<details>
 		<summary>Wie viel kostet eine Schnupperstunde?</summary>
 		<p>
-			Eine Schnupperstunde kostet i.&thinsp;d.&thinsp;R. 25 Euro. Wenn Sie einen Unterrichtsvertrag
+			Eine Schnupperstunde kostet i.&thinsp;d.&thinsp;R. 30 Euro. Wenn Sie einen Unterrichtsvertrag
 			abschließen, erhalten Sie dieses Geld zurück.
 		</p>
 	</details>
