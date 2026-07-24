@@ -1,0 +1,154 @@
+$font-title: 'Ovo';
+$font-body:
+	'Nunito Sans',
+	Roboto,
+	-apple-system,
+	'Segoe UI',
+	'Open Sans',
+	sans-serif;
+
+:root {
+	--color-bg-0: #f9f5e9;
+	--color-bg-1: #faf7ef;
+	--color-bg-2: #ffffff;
+	--color-bg-transparent: #b98b0016;
+	--theme-color: #a50000;
+	--link-color: #b70000;
+	--text-color: #000000d3;
+
+	color: var(--text-color);
+	font-family: $font-body;
+	font-size: 21px;
+
+	@media (max-width: 1000px) {
+		font-size: 19px;
+	}
+
+	@media (max-width: 800px) {
+		font-size: 17px;
+	}
+
+	@media (max-width: 600px) {
+		font-size: 15px;
+	}
+}
+
+body {
+	min-height: 100vh;
+	margin: 0;
+	background-attachment: fixed;
+	background-color: var(--color-bg-2);
+	background-size:
+		auto auto,
+		100vw 100vh;
+	background-image: url('../lib/images/texture.png');
+}
+
+.content {
+	width: 1000px;
+	max-width: 100%;
+	margin: 0 auto;
+
+	img {
+		display: block;
+		width: 100%;
+		margin: 1.5rem auto;
+		border-radius: 1rem;
+	}
+
+	.img-description {
+		margin: -0.75rem auto 1.5rem;
+		text-align: center;
+		font-size: 1rem;
+		line-height: 1.5rem;
+	}
+}
+
+p {
+	box-sizing: border-box;
+	font-size: 1.15rem;
+	line-height: 1.8rem;
+	margin: 1rem auto;
+
+	&.subheading {
+		font-size: 1.3rem;
+		line-height: 1.8rem;
+		margin-top: -3rem;
+		margin-bottom: 1.5rem;
+		text-align: center;
+		text-wrap: balance;
+
+		@media (max-width: 1000px) {
+			font-size: 1.2rem;
+			line-height: 1.7rem;
+		}
+	}
+
+	&.bigger {
+		font-size: 1.3rem;
+		line-height: 2rem;
+	}
+}
+
+ul,
+ol {
+	font-size: 1.1rem;
+	line-height: 1.7rem;
+}
+
+a {
+	color: var(--link-color);
+	text-decoration: none;
+	border-radius: 1px;
+
+	&:hover {
+		text-decoration: underline;
+	}
+
+	&:focus-visible {
+		text-decoration: none;
+		outline: 2px solid var(--theme-color);
+		outline-offset: 2px;
+	}
+}
+
+i {
+	color: var(--theme-color);
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: $font-title;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 3rem;
+	text-align: center;
+	margin: 2rem 0 4rem 0;
+
+	@media (max-width: 1000px) {
+		font-size: 2.5rem;
+	}
+}
+
+h2 {
+	font-size: 2.3rem;
+}
+
+h3 {
+	font-size: 1.9rem;
+}
+
+pre {
+	font-size: 16px;
+	font-family: var(--font-mono);
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 0 2px 6px #0003;
+	padding: 1.5em;
+	overflow-x: auto;
+	color: var(--text-color);
+}

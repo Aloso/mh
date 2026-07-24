@@ -1,0 +1,24 @@
+code {
+	.keyword,
+	.boolean {
+		color: #0051c1;
+	}
+	.string {
+		color: darkred;
+	}
+	.comment {
+		color: gray;
+	}
+	.parameter {
+		font-style: italic;
+	}
+	.function {
+		color: #b75500;
+	}
+	.class-name {
+		color: #007846;
+	}
+	.number {
+		color: #00b60c;
+	}
+}

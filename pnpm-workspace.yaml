@@ -1,0 +1,6 @@
+allowBuilds:
+  workerd: true
+  sharp: true
+  esbuild: true
+  '@parcel/watcher': true
+  svelte-preprocess: true

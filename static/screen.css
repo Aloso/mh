@@ -1,0 +1,200 @@
+body {
+   font-family : Muli, "Segoe UI", sans-serif;
+}
+
+p,li,table,h2,h3,h4{
+   line-height : 1.8em;
+}
+
+#BOTTOM {
+   font-size : 14pt;
+}
+
+a,
+a:visited {
+	display:block;
+	text-decoration : none;
+	border : none;
+	line-height : 1.0em;
+	color: #000000;
+}
+.activ{
+	font-weight : bold;
+}
+
+.cite{
+	font-style:italic;		
+}
+
+#SUBMENU ul{
+	  margin-top: 0;
+	  padding: 0;
+      list-style-type: none;
+      font-size: 13pt;
+}
+#SUBMENU li{
+	padding :  6px 10px 6px 10px;
+	margin-left: 5px;
+	float : left;
+	text-align: center;
+	background: #E9C7BE none;	
+}
+#SUBMENU.wuu li{
+}
+
+#SUBMENU .activ,
+#SUBMENU .activ * {
+	background: darkred none;
+    color: white;
+}
+
+img{
+   border : none;
+}
+body{
+	background-color: #F9F5E9 ;
+}
+h1{
+	font-size : 25pt;
+	font-weight : normal;
+}
+h2{
+	font-size : 15pt;
+	font-weight : normal;
+	margin-left:100px;
+}
+.darkred{
+	color:#900000;
+}
+.darkblue{
+	color:#0000EE;
+}
+#CONTAINER{
+   position : absolute;
+   top : 0px;
+   left : 0px;  
+   width : 1024px; 
+}
+
+#GDSTECHER{
+   position : absolute;
+   top : 0px;
+   left: 100px;
+   width: 100%;
+}
+#STARTLOGO{
+   position : absolute;
+   top : 70px;
+   left: 270px;
+   width: 100%;
+}
+#STARTMENU{
+   position : absolute;
+   top : 256px;
+   left: 0px;
+   width: 100%;
+}
+#TOP{
+   position : fixed;
+   top : 0px;
+   left: 0px;
+   width: 1200px;
+   height:130px;
+   background-color: #F9F5E9 ;   
+   z-index :100;
+}
+#IMGLOGO{
+	position : absolute;
+	width :300px;
+	left : 362px;
+}
+#TOPDIVIDER{
+	position : absolute;
+	top:121px;
+    border-width: 1px 0 0 0;
+    border-color: #bb0000;
+	width:100%;
+}
+#LNK_IMPRESSUM{
+	position : absolute;
+	top:105px;
+	left:830px;
+	color :#900000;
+}
+#LNK_DATENSCHUTZ{
+	position : absolute;
+	top:105px;
+	left:1000px;
+	color :#900000;
+}
+#BOTTOM{
+   position : absolute;
+   top : 130px;
+   left: 0px;
+   width: 1024px;
+}
+#LEFT{
+    position : fixed;
+    top : 130px;
+    left: 0px;
+    width:250px;
+    background-color: #F9F5E9 ;
+    font-size: 13pt;
+    z-index: 100;
+}
+#MENU{
+   position : absolute;
+   top : 0px;
+   left: 101px;
+}
+#MENU a{
+	padding-top:23px;
+}
+.capital{
+	font-size : 25pt;
+}
+#RIGHT{
+   position : relative;
+   top : 0px;
+   left: 301px;
+   width: 724px;
+}
+#SUBMENU{
+	position : fixed;
+	top : 130px;
+	padding-top:10px;
+	padding-bottom:10px;
+	left: 290px;
+	width: 734px;
+	background-color: #F9F5E9 ;
+	z-index:100;
+	
+}
+#CONTENT{
+   position : absolute;
+   top : 65px;
+   left: 0px;
+   width: 99%;
+}
+#MENU_QM{
+   line-height : 1.0em;	
+}
+#MENU_GEB{
+	margin-top:-7px;
+}
+#MENU_KON{
+	margin-top:-7px;
+}
+#IMPRESSUM{
+   top : 1000px;
+   left : 100px;  
+		z-index : 1000;
+	}
+
+.big-capital::first-letter {
+    font-size: 3.3em;
+    color: darkred;
+    float: left;
+    line-height: 20%;
+    margin-top: 10px;
+}
