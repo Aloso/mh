@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Wir stellen uns vor – Musikunterricht Holzkirchen</title>
+	<title>Wir stellen uns vor | Musikunterricht Holzkirchen</title>
 	<meta
 		name="description"
 		content="Wir bieten Musikunterricht in Blockflöte, Klarinette, Saxophon, Violoncello und Klavier an, geeignet für Kinder, Jugendliche und Erwachsene."

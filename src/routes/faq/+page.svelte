@@ -3,6 +3,10 @@
 	import ContactWidget from '../../components/ContactWidget.svelte'
 </script>
 
+<svelte:head>
+	<title>Häufige Fragen | Musikunterricht Holzkirchen</title>
+</svelte:head>
+
 <div class="content">
 	<h1>Häufig gestellte Fragen</h1>
 

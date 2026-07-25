@@ -5,6 +5,10 @@
 	import Siciliana from './audio/Siciliana.ogg?url'
 </script>
 
+<svelte:head>
+	<title>Duo Facile | Musikunterricht Holzkirchen</title>
+</svelte:head>
+
 <div class="content">
 	<h1>Duo Facile</h1>
 

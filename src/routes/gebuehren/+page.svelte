@@ -45,6 +45,10 @@
 	})
 </script>
 
+<svelte:head>
+	<title>Gebühren | Musikunterricht Holzkirchen</title>
+</svelte:head>
+
 <div class="content" class:interactive>
 	<h1>Gebühren- und Ferien&shy;ordnung</h1>
 	<p class="subheading">Gültig ab 01.09.2026</p>
@@ -147,8 +151,8 @@
 		<p>
 			Der Musikunterricht (Schuljahr 2026/27) beginnt am <b>Montag, den 21. September 2026</b> und
 			endet am <b>Freitag, den 23. Juli 2027</b>. Zusätzlich ist vom
-			<b>21. bis 23. Dezemberr 2026</b> KEIN Unterricht. Ansonsten gelten die Ferienbestimmungen für die
-			allgemeinen und weiterführenden Schulen in Bayern.
+			<b>21. bis 23. Dezember 2026</b> <i>kein</i> Unterricht. Ansonsten gelten die Ferienbestimmungen
+			für die allgemeinen und weiterführenden Schulen in Bayern.
 		</p>
 
 		<h3>Möchten Sie eine Schnupperstunde vereinbaren?</h3>

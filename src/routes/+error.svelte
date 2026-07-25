@@ -2,6 +2,10 @@
 	import { page } from '$app/state'
 </script>
 
+<svelte:head>
+	<title>Fehler | Musikunterricht Holzkirchen</title>
+</svelte:head>
+
 <h1>{page.status}</h1>
 <p class="desc">
 	{page.status === 404 ? 'Die Seite konnte nicht gefunden werden.' : page.error?.message}

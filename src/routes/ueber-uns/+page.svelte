@@ -4,11 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Kontakt – Musikunterricht Holzkirchen</title>
-	<meta
-		name="description"
-		content="Treten Sie mit uns in Verbindung. Wir bieten Musikunterricht in Blockflöte, Klarinette, Saxophon, Violoncello und Klavier an."
-	/>
+	<title>Über uns | Musikunterricht Holzkirchen</title>
 </svelte:head>
 
 <div class="content">

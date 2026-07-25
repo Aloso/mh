@@ -6,6 +6,10 @@
 	import Klarinette from './Klarinette.png?url'
 </script>
 
+<svelte:head>
+	<title>Instrumente | Musikunterricht Holzkirchen</title>
+</svelte:head>
+
 <div class="content">
 	<h1>Instrumente</h1>
 

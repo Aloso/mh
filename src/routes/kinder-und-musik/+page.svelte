@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Kinder und Musik | Musikunterricht Holzkirchen</title>
+</svelte:head>
+
 <div class="content">
 	<h1>Kinder und Musik</h1>
 

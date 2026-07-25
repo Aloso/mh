@@ -1,5 +1,9 @@
+<svelte:head>
+	<title>Datenschutz | Musikunterricht Holzkirchen</title>
+</svelte:head>
+
 <div class="content">
-	<h1>Datenschutz­erklärung</h1>
+	<h1>Datenschutz&shy;erklärung</h1>
 
 	<h2>Datenschutz</h2>
 	<p>
